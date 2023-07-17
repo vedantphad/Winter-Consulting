@@ -26,4 +26,4 @@ This course is conducted by Consulting &amp; Analytics Club, IIT Guwahati
 <br>∙Growth Strategy
 <br>
  <br> Lastly We had to complete a case study on one of the companies they suggested. So I did the case study on AIR INDIA
-![AIR INDIA case study](https://github.com/vedantphad/Winter-Consulting/assets/123496456/9bda2f50-484b-4914-96e5-e3d274b6dec8)
+
